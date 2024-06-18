@@ -8,7 +8,6 @@ import AddItem from "./component/AddItem";
 import React, { useState } from "react";
 import Ptitle from "./component/PTitle";
 
-// const chetan = "chetan";
 function App() {
   const productListData = [
     {
